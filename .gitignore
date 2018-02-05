@@ -1,0 +1,7 @@
+build
+src
+db4
+*.cpp
+*.o
+*.a
+*.h
